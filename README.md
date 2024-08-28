@@ -23,6 +23,7 @@ Setup and Installation
 Clone the repository:
 
 git clone https://github.com/SayakDe98/group-chat.git
+
 cd group-chat
 
 Install dependencies:

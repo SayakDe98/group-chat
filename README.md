@@ -6,10 +6,12 @@ Admin APIs
 Manage Users: Admins can create and edit users.
 User APIs (for Normal Users and Admins)
 Authentication: Login and logout functionalities.
-Group Management: Create, delete, search, and add members to groups. All users are visible to all other users.
-Group Messages: Send messages within groups and like messages.
+Group Management: Create, delete, search, add and delete members to groups. All users are visible to all other users.
+Group Messages: Send messages within groups, delete, fetch and like messages.
+
 Testing
 Simple end-to-end functional tests to ensure that the APIs are working correctly.
+
 Technologies Used
 Node.js
 Express.js
@@ -19,6 +21,7 @@ Bcrypt.js for Password Hashing
 Jest and Supertest for E2E Testing
 Node-cron for Scheduled Tasks
 Dotenv for Environment Variables Management
+
 Setup and Installation
 Clone the repository:
 
